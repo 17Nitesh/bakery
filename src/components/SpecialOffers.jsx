@@ -23,7 +23,7 @@ const offers = [
 
 const SpecialOffers = () => {
     return (
-        <section className="py-16 px-4 min-h-[90vh] bg-[#FAE5C3] text-[#5C4033]">
+        <section className="py-16 px-4 min-h-[90vh] bg-white text-[#5C4033]">
             <div className="container mx-auto text-center">
                 <h2 className="text-4xl font-bold">🎉 Special Offers 🎉</h2>
                 <p className="text-lg text-[#8D6E63] mt-2">Don't miss out on our limited-time deals!</p>
